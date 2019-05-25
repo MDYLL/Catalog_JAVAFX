@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Catalog">
+    <output-path>$PROJECT_DIR$/out/artifacts/Catalog</output-path>
+    <root id="archive" name="Catalog.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Catalog" />
+      <element id="extracted-dir" path="D:/java-json.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
