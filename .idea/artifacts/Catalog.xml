@@ -7,6 +7,7 @@
       </element>
       <element id="module-output" name="Catalog" />
       <element id="extracted-dir" path="D:/java-json.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/tilesfx-1.6.5.jar" path-in-jar="/" />
     </root>
   </artifact>
 </component>
